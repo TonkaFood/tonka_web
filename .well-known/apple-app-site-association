@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["6FA8ZYKVX4.com.tonkafood.tonka"],
+        "components": [
+            {
+              "/": "*"
+            }
+        ]
+      }
+    ]
+  }
+}
